@@ -1,2 +1,2 @@
 # Codigo en python
-print("Hola, soy Amayrany Gelain")
+print("Hola, soy Amayrany Gelain, estoy en informatica")
